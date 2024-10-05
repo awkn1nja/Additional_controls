@@ -1,0 +1,1 @@
+This is a RPG Maker MV plugin. I tried having Chat Gpt make it for me but had better luck doing it myself, it just adds new data to the built in key mapping data struct might make a v2 that removes the built in arrow key and z/x controls
